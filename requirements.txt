@@ -1,0 +1,4 @@
+setuptools
+pymongo==4.2.0
+
+-e .
